@@ -27,8 +27,9 @@ print(r.json())
 ````
 
 Output:
-````pycon
-Status Code: 200
+```Status Code: 200```
+
+````json
 {
     "status": "success",
     "requestID": "a24effc3-b1d6-46a3-a49a-fe07734717ad",
@@ -64,4 +65,4 @@ Status Code: 200
         ]
     }
 }
-````"# py-fireapi" 
+````
